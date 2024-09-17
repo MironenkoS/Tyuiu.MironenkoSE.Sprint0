@@ -10,7 +10,7 @@ namespace Tyuiu.MironenkoSE.Sprint0.Task3.V0.Test
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(10, DataService.Sum(5, 5));
+            Assert.AreEqual(10, DataService.Sum(5, 6));
         }
     }
 }
